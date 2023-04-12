@@ -1,0 +1,15 @@
+﻿Ascii total of my name “bilge yağmur erkasap”
+
+
+“bilge” = b:98 , i:105 , l:108 , g:103 , e:101 = 515
+“yağmur” = y:121 , a:97 , ğ:103 , m:109 , u:117 , r: 114 = 661
+“erkasap” = e:101 , r:114 , k:107 , a:97 , s:115 , a:97 , p: 112 = 743
+
+
+asciiname: 1176
+asciisurname: 743
+asciitotal: 1919
+timernumber: 1
+arrnumber: 65535
+duration: 22290
+ledpinnumber: 15
